@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmaanKara
-- 👀 I’m interested in all things python realted!
-- 🌱 I’m currently learning python, r and SQL
+- 👀 I’m interested in all things Python realted!
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on data science and data visualization projects!
 - 📫 How to reach me armaan11@student.ubc.ca
 
