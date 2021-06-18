@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArmaanKara
-- 👀 I’m interested in all things Python realted!
+- 👀 I’m interested in Full-Stack web development!
 - 🌱 I’m currently learning Python, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on web development projects!
 - 📫 How to reach me armaan11@student.ubc.ca
