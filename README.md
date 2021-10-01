@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArmaanKara
-- 👀 I’m interested in Full-Stack web development!
-- 🌱 I’m currently learning Python, Javascript, HTML, and CSS
+- 👀 I’m a Full-Stack Web Developer
+- 🌱 I use Python, Javascript, Node, HTML, and CSS
 - 💞️ I’m looking to collaborate on web development projects!
-- 📫 How to reach me armaan11@student.ubc.ca
+- 📫 How to reach me armaankara.com
 
 <!---
 ArmaanKara/ArmaanKara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
