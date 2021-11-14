@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmaanKara
-- 👀 I’m a Full-Stack Web Developer
-- 🌱 I use Python, Javascript, Node, HTML, and CSS
+- 😎 I’m a Full-Stack Web Developer
+- 🔧 I use Python, Javascript, Node, HTML, and CSS
 - 💞️ I’m looking to collaborate on web development projects!
 - 📫 How to reach me [armaankara.com](https://armaankara.com)
 
