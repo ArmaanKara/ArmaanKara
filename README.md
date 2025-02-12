@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArmaanKara
-- 😎 I’m a Full-Stack Web Developer
-- 🔧 I use Python, Javascript, Node, HTML, and CSS
-- 💞️ I’m looking to collaborate on web development projects!
+- 😎 I’m a Full-Stack Software Engineer
+- 🔧 I use Python, TypeScript, Vue, React, Node, HTML, and CSS
 - 📫 Check out my website [armaankara.com](https://armaankara.com) or email here at <a href="mailto:akara.swe@gmail.com">akara.swe@gmail.com</a>
 
 <!---
